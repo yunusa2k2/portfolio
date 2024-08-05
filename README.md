@@ -1,4 +1,4 @@
-## Researcher and Computer Vision Algorithm Engineer
+## Researcher & Computer Vision Engineer
 #### Computer Vision, Deep Learning, Transformers, State Space Model
 ### Education
 
