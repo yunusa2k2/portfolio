@@ -1,12 +1,13 @@
-## Researcher & Computer Vision Engineer
-#### Computer Vision, Deep Learning, Transformers, State Space Model
+# Researcher & Computer Vision Engineer
+### Computer Vision, Deep Learning, Transformers, State Space Model
 
-### Education
+## Education
 - Ph.D., Pattern Recognition & Intelligent Systems. _Beihang University, Beijing, China (March 2024)_
 - M.Sc., Computer Information Systems. _Near East University, Nicosia, Cyprus (July 2017)_
 - B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
 
-### Experience
+## Experience
+### Computer Vision Model Developer
 **Pegasus AI** | Beijing, China  
 *September 2020 – January 2022*
 
@@ -17,7 +18,7 @@
 - Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
 
-### Skills
+## Skills
  - **Research.** _Design & Methods, Data Analysis, Problem Solving, Literature Review, and Experiments._
  - Deep Learning: _Image Recognition, Segmentation, Detection._
  - Computer Vision Algorithms: _Feature Extraction, Image Processing._
@@ -31,15 +32,15 @@
  - Mathematics: _Linear Algebra, Calculus, Probability._
  - Research & Innovation: _Publications, Conferences, Reviews, Tutorial._
 
-### Additional Skills
+## Additional Skills
 - Backend: _Node.js, PHP, MVC, Laravel, MySQL, MongoDB, PostgreSQL, JScript, HTML, CSS, Git, Apache._
 
-### SCHOLARSHIPS & AWARD
+## SCHOLARSHIPS & AWARD
 - Chinese Government Scholarship, Postgraduate Sep 2018
 - Near East University Postgraduate Scholarship July 2017
 - Kano State Government Postgraduate Scholarship Mar 2015
   
-### Language
+## Language
 - English: _Native_
 - Chinese: _Beginner_
 - Hausa: _Native_
