@@ -2,9 +2,9 @@
 #### _Computer Vision, Deep Learning, Transformers, State Space Model_
 
 ## Education
-- Ph.D., Pattern Recognition & Intelligent Systems. _Beihang University, Beijing, China (March 2024)_
-- M.Sc., Computer Information Systems. _Near East University, Nicosia, Cyprus (July 2017)_
-- B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
+**Ph.D., Pattern Recognition & Intelligent Systems.** _Beihang University, Beijing, China (March 2024)_ <br>
+**M.Sc., Computer Information Systems.** _Near East University, Nicosia, Cyprus (July 2017)_ <br>
+**B.Sc., Computer Science.** _Bayero University, Kano, Nigeria (March 2013)_
 
 ## Experience
 **Computer Vision Model Developer** <br>
