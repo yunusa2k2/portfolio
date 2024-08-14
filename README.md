@@ -18,7 +18,7 @@
 
 **Data Scientist** <br>
 **Popular Robotics** | Beijing, China  <span style="float: right;">May 2020 – Aug 2020</span>
-- Created Jupyter notebook tutorials on computer vision and ML for 2,000+ students.
+<li>Created Jupyter notebook tutorials on computer vision and ML for 2,000+ students.</li>
 
 ### Data Analyst
 **China Mobile International** | Beijing, China  
