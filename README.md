@@ -7,14 +7,10 @@
 - B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
 
 ## Experience
-### Computer Vision Model Developer
-**Pegasus AI** | Beijing, China  
-*September 2020 – January 2022*
-- Led the team & enhanced Faster R-CNN model, achieving:
-  - +6% mAP (mean Average Precision)
-  - +13% inference speed
-  - -17% training time
-- Guided a cross-functional team to implement advanced features to bolster the model's robustness.
+**Computer Vision Model Developer** <br>
+**Pegasus AI** | Beijing, China   <span style="float: right;">September 2020 – January 2022</span> <br>
+Led the team & enhanced Faster R-CNN model, achieving: +6% mAP (mean Average Precision), +13% inference speed, -17% training time <br>
+Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
 **Data Scientist** <br>
 **Popular Robotics** | Beijing, China  <span style="float: right;">May 2020 – Aug 2020</span> <br>
