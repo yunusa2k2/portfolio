@@ -7,7 +7,7 @@
 - B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
 
 ### Experience
-*Pegasus AI** | Beijing, China  
+**Pegasus AI** | Beijing, China  
 *September 2020 – January 2022*
 
 - Led the team & enhanced Faster R-CNN model, achieving:
@@ -18,7 +18,7 @@
 
 
 ### Skills
- - Research: _Design & Methods, Data Analysis, Problem Solving, Literature Review, and Experiments._
+ - **Research.** _Design & Methods, Data Analysis, Problem Solving, Literature Review, and Experiments._
  - Deep Learning: _Image Recognition, Segmentation, Detection._
  - Computer Vision Algorithms: _Feature Extraction, Image Processing._
  - Languages: _Python, C++, Java._
