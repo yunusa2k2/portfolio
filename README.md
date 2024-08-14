@@ -6,6 +6,17 @@
 - M.Sc., Computer Information Systems. _Near East University, Nicosia, Cyprus (July 2017)_
 - B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
 
+### Experience
+*Pegasus AI** | Beijing, China  
+*September 2020 – January 2022*
+
+- Led the team & enhanced Faster R-CNN model, achieving:
+  - +6% mAP (mean Average Precision)
+  - +13% inference speed
+  - -17% training time
+- Guided a cross-functional team to implement advanced features to bolster the model's robustness.
+
+
 ### Skills
  - Research: _Design & Methods, Data Analysis, Problem Solving, Literature Review, and Experiments._
  - Deep Learning: _Image Recognition, Segmentation, Detection._
