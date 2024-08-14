@@ -17,6 +17,41 @@
   - -17% training time
 - Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
+### Data Scientist
+**Popular Robotics** | Beijing, China  
+*May 2020 – August 2020*
+
+- Created Jupyter notebook tutorials on computer vision and ML for 2,000+ students.
+
+### Data Analyst
+**China Mobile International** | Beijing, China  
+*July 2019 – August 2019*
+
+- Analyzed data and optimized sales order sorting for China Mobile International.
+
+### Backend Developer
+**Popular Robotics** | Beijing, China  
+*March 2019 – June 2019; September 2019 – June 2020*
+
+- Developed backend for e-learning system using MVC architecture (Node.js, Express).
+
+### Part-Time Lecturer
+**Kano State Polytechnic** | Kano, Nigeria  
+*September 2017 – August 2018*
+
+- Taught C++ programming courses, explaining concepts and best practices.
+
+### Web Developer
+**Ata Hançer Bilişim Teknolojileri Ltd** | Nicosia, China  
+*June 2016 – August 2016*
+
+- Developed web applications using Laravel-PHP.
+
+### Computer Programming Instructor
+**Hassan Usman Polytechnic** | Katsina, Nigeria  
+*June 2013 – May 2014*
+
+- Taught C++ and Java, covering fundamental to advanced programming concepts.
 
 ## Skills
  - **Research.** _Design & Methods, Data Analysis, Problem Solving, Literature Review, and Experiments._
