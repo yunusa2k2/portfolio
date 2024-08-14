@@ -19,3 +19,9 @@
  - Evaluation & Optimization: Cross-validation, Metrics (recall, accuracy, precision, mAP), Hyperparameter tuning, L1/L2 Regularization, Dropout, Transfer Learning, NAS, Early Stopping.
  - Mathematics: Linear Algebra, Calculus, Probability.
  - Research & Innovation: Publications, Conferences, Reviews, Tutorial.
+
+### Additional Skills
+- Backend: _Node.js, PHP, MVC, Laravel, MySQL, MongoDB, PostgreSQL, JScript, HTML, CSS, Git, Apache._
+
+
+
