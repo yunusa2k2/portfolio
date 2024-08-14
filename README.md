@@ -16,9 +16,8 @@
   - -17% training time
 - Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
-**Data Scientist**
+### Data Scientist
 **Popular Robotics** | Beijing, China  <span style="float: right;">May 2020 – August 2020</span>
-*May 2020 – August 2020*
 - Created Jupyter notebook tutorials on computer vision and ML for 2,000+ students.
 
 ### Data Analyst
