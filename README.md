@@ -23,5 +23,15 @@
 ### Additional Skills
 - Backend: _Node.js, PHP, MVC, Laravel, MySQL, MongoDB, PostgreSQL, JScript, HTML, CSS, Git, Apache._
 
-
+### SCHOLARSHIPS & AWARD
+- Chinese Government Scholarship, Postgraduate Sep 2018
+- Near East University Postgraduate Scholarship July 2017
+- Kano State Government Postgraduate Scholarship Mar 2015
+  
+### Language
+- English: _Native_
+- Chinese: _Beginner_
+- Hausa: _Native_
+- Yoruba: _Intermediate_
+- Pidgin (English): _Native_
 
