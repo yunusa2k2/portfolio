@@ -9,7 +9,7 @@
 ## Experience
 **Computer Vision Model Developer** <br>
 **Pegasus AI** | Beijing, China   <span style="float: right;">September 2020 – January 2022</span> <br>
-<div style="width: 100px; height: 100px; background-color: black;"></div>
+<div style="width: 100px; height: 100px; background-color: black;">dd</div>
 Led the team & enhanced Faster R-CNN model, achieving: +6% mAP (mean Average Precision), +13% inference speed, -17% training time <br>
 Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
