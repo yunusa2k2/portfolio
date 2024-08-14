@@ -3,9 +3,9 @@
 
 ## Education
 **Ph.D., Pattern Recognition & Intelligent Systems** <br>
-Beihang University, Beijing, China (March 2024) <br>
+Beihang University, Beijing, China (March 2024) <br> <br>
 **M.Sc., Computer Information Systems** <br>
-Near East University, Nicosia, Cyprus (July 2017)_ <br>
+Near East University, Nicosia, Cyprus (July 2017)_ <br> <br>
 **B.Sc., Computer Science** <br>
 Bayero University, Kano, Nigeria (March 2013)_
 
