@@ -17,7 +17,7 @@
   - -17% training time
 - Guided a cross-functional team to implement advanced features to bolster the model's robustness.
 
-### Data Scientist
+**Data Scientist**
 **Popular Robotics** | Beijing, China  
 *May 2020 – August 2020*
 
