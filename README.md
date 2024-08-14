@@ -8,9 +8,9 @@
 
 ## Experience
 **Computer Vision Model Developer** <br>
-**Pegasus AI** | Beijing, China   <span style="float: right;">September 2020 – January 2022</span> <br>
+**Pegasus AI** | Beijing, China   <span style="float: right;">Sep 2020 – Jan 2022</span> <br>
 Led the team & enhanced Faster R-CNN model (+6% mAP, +13% inference) <br>
-Guided a cross-functional team to implement advanced features to bolster the model's robustness.
+Led a cross-functional team to enhance model robustness with advanced features.
 
 **Data Scientist** <br>
 **Popular Robotics** | Beijing, China  <span style="float: right;">May 2020 – Aug 2020</span> <br>
