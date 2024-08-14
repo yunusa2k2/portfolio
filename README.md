@@ -18,7 +18,7 @@ Created Jupyter notebook tutorials on CV & ML for 2,000+ students.
 
 **Data Analyst** <br>
 **China Mobile International** | Beijing, China  <span style="float: right;">Jul 2019 – Aug 2019</span> <br>
-Analyzed data and optimized sales order sorting for China Mobile International.
+Analyzed data & optimized sales order sorting for China Mobile International.
 
 ### Backend Developer
 **Popular Robotics** | Beijing, China  
