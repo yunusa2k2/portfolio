@@ -1,5 +1,5 @@
 ## Researcher & Computer Vision Engineer
-### Computer Vision, Deep Learning, Transformers, State Space Model
+#### _Computer Vision, Deep Learning, Transformers, State Space Model_
 
 ## Education
 - Ph.D., Pattern Recognition & Intelligent Systems. _Beihang University, Beijing, China (March 2024)_
