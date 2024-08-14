@@ -6,5 +6,5 @@
 - M.Sc., Computer Information Systems. _Near East University, Nicosia, Cyprus (July 2017)_
 - B.Sc., Computer Science. _Bayero University, Kano, Nigeria (March 2013)_
 
-### Work Experience
- 
+### Skills
+ - Research: Design & Methods, Data Analysis, Problem Solving, Literature Review, and, Experiments.
