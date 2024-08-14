@@ -16,10 +16,9 @@ Led a cross-functional team to enhance model robustness with advanced features.
 **Popular Robotics** | Beijing, China  <span style="float: right;">May 2020 – Aug 2020</span> <br>
 Created Jupyter notebook tutorials on CV & ML for 2,000+ students.
 
-### Data Analyst
-**China Mobile International** | Beijing, China  
-*July 2019 – August 2019*
-- Analyzed data and optimized sales order sorting for China Mobile International.
+**Data Analyst** <br>
+**China Mobile International** | Beijing, China  <span style="float: right;">Jul 2019 – Aug 2019</span> <br>
+Analyzed data and optimized sales order sorting for China Mobile International.
 
 ### Backend Developer
 **Popular Robotics** | Beijing, China  
